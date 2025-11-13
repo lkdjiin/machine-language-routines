@@ -3,7 +3,7 @@
 This is a book from 1987 by Todd D. Heimarck and Patrick Parrish.
 
 I'll put the codes here as I try them. I'll change nothing from the book,
-except adapting code for KickAssember.
+except adapting code for KickAssembler.
 Each file is a self-contained program that demonstrates a specific technic.
 
 ## Index by topic
