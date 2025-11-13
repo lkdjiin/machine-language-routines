@@ -10,11 +10,8 @@ Each file is a self-contained program that demonstrates a specific technic.
 
 ### Characters input
 
-- **CHRKER** Get a character
-
-### Characters output
-
 - **BUFCLR** Clear the keyboard buffer
+- **CHRKER** Get a character
 
 ### Colors
 
