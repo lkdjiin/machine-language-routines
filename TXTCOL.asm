@@ -2,7 +2,7 @@ BasicUpstart2(start)
 
 // Machine Language Routines for the commode 64/128
 //
-// RNDBYT page 538
+// TXTCOL page 538
 //
 // Set text color to green.
 

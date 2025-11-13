@@ -9,6 +9,7 @@ except adapting code for KickAssember.
 
 ### Colors
 
+- **COLFIL** Fill text screen color memory
 - **TXTCOL** Set the text color
 
 ### Random numbers
