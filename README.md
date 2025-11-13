@@ -8,6 +8,10 @@ Each file is a self-contained program that demonstrates a specific technic.
 
 ## Index by topic
 
+### Characters output
+
+- **BUFCLR** Clear the keyboard buffer
+
 ### Colors
 
 - **BCKCOL** Set the text screen background color
