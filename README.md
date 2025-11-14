@@ -8,10 +8,14 @@ Each file is a self-contained program that demonstrates a specific technic.
 
 ## Index by topic
 
-### Characters input
+### Character input
 
 - **BUFCLR** Clear the keyboard buffer
 - **CHRKER** Get a character
+
+### Character output
+
+- **POKSCR** POKE to screen and color memory
 
 ### Colors
 
