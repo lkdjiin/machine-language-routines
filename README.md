@@ -24,6 +24,10 @@ Each file is a self-contained program that demonstrates a specific technic.
 - **COLFIL** Fill text screen color memory
 - **TXTCOL** Set the text color
 
+### Handling registers
+
+- **SVREGM** Save processor registers in memory
+
 ### Random numbers
 
 - **RDBYRG** Generate a random one-byte integer value in a range
