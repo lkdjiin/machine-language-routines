@@ -26,6 +26,7 @@ Each file is a self-contained program that demonstrates a specific technic.
 
 ### Handling registers
 
+- **RSREGM** Restore registers from memory
 - **SVREGM** Save processor registers in memory
 
 ### Random numbers
