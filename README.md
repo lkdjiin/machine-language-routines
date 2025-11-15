@@ -29,6 +29,10 @@ Each file is a self-contained program that demonstrates a specific technic.
 - **RSREGM** Restore registers from memory
 - **SVREGM** Save processor registers in memory
 
+### Multiplication
+
+- **MULAD1** Multiply two numbers with successive adds
+
 ### Random numbers
 
 - **RDBYRG** Generate a random one-byte integer value in a range
