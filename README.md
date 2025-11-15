@@ -32,6 +32,7 @@ Each file is a self-contained program that demonstrates a specific technic.
 ### Multiplication
 
 - **MULAD1** Multiply two numbers with successive adds
+- **MULAD2** Multiply two numbers with repeated additions (optimized version)
 
 ### Random numbers
 
