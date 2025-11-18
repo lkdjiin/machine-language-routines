@@ -38,6 +38,10 @@ Each file is a self-contained program that demonstrates a specific technic.
 - **MULAD1** Multiply two numbers with successive adds
 - **MULAD2** Multiply two numbers with repeated additions (optimized version)
 
+### Printing numbers
+
+- **NUMOUT** Print two-byte integer values
+
 ### Random numbers
 
 - **RDBYRG** Generate a random one-byte integer value in a range
