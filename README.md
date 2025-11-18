@@ -24,6 +24,10 @@ Each file is a self-contained program that demonstrates a specific technic.
 - **COLFIL** Fill text screen color memory
 - **TXTCOL** Set the text color
 
+### Cursor routines
+
+- **PLOTCR** Set the cursor location
+
 ### Handling registers
 
 - **RSREGM** Restore registers from memory
