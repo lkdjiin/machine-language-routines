@@ -46,3 +46,7 @@ Each file is a self-contained program that demonstrates a specific technic.
 
 - **RDBYRG** Generate a random one-byte integer value in a range
 - **RNDBYT** Generate a random one-byte integer value (0-255) using SID voice 3
+
+### Sound and music
+
+- **BEEPER** Emit a beep sound
