@@ -50,3 +50,4 @@ Each file is a self-contained program that demonstrates a specific technic.
 ### Sound and music
 
 - **BEEPER** Emit a beep sound
+- **BELLRG** Emit a bell sound
