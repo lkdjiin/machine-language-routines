@@ -4,7 +4,7 @@ BasicUpstart2(start)
 //
 // SIDCLR page 469
 //
-// Produce an explosion sound
+// Clear the SID chip
 
 .const FRELO1 = 54272 // Starting address of the SID chip
 

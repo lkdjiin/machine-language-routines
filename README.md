@@ -53,3 +53,4 @@ Each file is a self-contained program that demonstrates a specific technic.
 - **BELLRG** Emit a bell sound
 - **EXPLOD** Produce an explosion sound
 - **SIDCLR** Clear the SID chip
+- **SIDVOL** Set the SID chip volume register
