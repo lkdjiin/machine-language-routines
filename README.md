@@ -52,3 +52,4 @@ Each file is a self-contained program that demonstrates a specific technic.
 - **BEEPER** Emit a beep sound
 - **BELLRG** Emit a bell sound
 - **EXPLOD** Produce an explosion sound
+- **SIDCLR** Clear the SID chip
