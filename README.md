@@ -40,6 +40,7 @@ Each file is a self-contained program that demonstrates a specific technic.
 
 ### Printing numbers
 
+- **BYTASC** Print a one-byte integer value
 - **NUMOUT** Print two-byte integer values
 
 ### Random numbers
